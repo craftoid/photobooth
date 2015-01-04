@@ -3,8 +3,6 @@ Photobooth
 
 ## Processing Version
 
-![screenshot](photobooth.jpg)
-
 Quick and dirty Processing sketch to capture images of all the students in my course.  
 It requires the *controlP5* library.
 
