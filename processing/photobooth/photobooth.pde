@@ -23,7 +23,7 @@ PFont font;
 ControlP5 cp5;
 
 // camera dimensions
-int w = 640, h = 480;
+int w = 320, h = 240;
 
 // gui dimensions
 int border = 12;
